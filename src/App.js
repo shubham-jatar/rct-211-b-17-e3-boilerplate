@@ -28,6 +28,7 @@ function App() {
       check if the components are working properly */}
       <Button />
       <br />
+      <br/>
       <Pagination />
     </div>
   );
