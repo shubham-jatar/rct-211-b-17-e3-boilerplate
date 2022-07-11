@@ -1,1 +1,3 @@
-export const useCounter = (init) => {};
+export const useCounter = (init) => {
+    
+};
